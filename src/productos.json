@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "title": "Smartphone Samsung Galaxy S22",
+    "description": "Teléfono inteligente de última generación con pantalla AMOLED y cámara de alta resolución.",
+    "code": "SSG22",
+    "price": 1299.99,
+    "status": true,
+    "stock": 50,
+    "category": "Smartphones",
+    "thumbnails": [
+      "img/samsung_s22_1.jpg",
+      "img/samsung_s22_2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Laptop Dell XPS 15",
+    "description": "Laptop ultradelgada con pantalla táctil 4K y procesador Intel Core i7.",
+    "code": "DLXPS15",
+    "price": 1899.99,
+    "status": true,
+    "stock": 30,
+    "category": "Laptops",
+    "thumbnails": [
+      "img/dell_xps_15_1.jpg",
+      "img/dell_xps_15_2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Smart TV Sony Bravia 65\"",
+    "description": "Televisor inteligente con resolución 4K HDR y tecnología de sonido envolvente.",
+    "code": "SB65",
+    "price": 1499.99,
+    "status": true,
+    "stock": 20,
+    "category": "Televisores",
+    "thumbnails": [
+      "img/sony_bravia_65_1.jpg",
+      "img/sony_bravia_65_2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Consola de videojuegos Xbox Series X",
+    "description": "Consola de próxima generación con capacidad 8K y tecnología de trazado de rayos.",
+    "code": "XBXSX",
+    "price": 499.99,
+    "status": true,
+    "stock": 40,
+    "category": "Consolas de videojuegos",
+    "thumbnails": [
+      "img/xbox_series_x_1.jpg",
+      "img/xbox_series_x_2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Cámara DSLR Canon EOS 90D",
+    "description": "Cámara réflex digital con sensor CMOS de 32.5MP y grabación de video 4K.",
+    "code": "CE90D",
+    "price": 1099.99,
+    "status": true,
+    "stock": 15,
+    "category": "Cámaras",
+    "thumbnails": [
+      "img/canon_eos_90d_1.jpg",
+      "img/canon_eos_90d_2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Auriculares inalámbricos Bose QuietComfort 45",
+    "description": "Auriculares con cancelación de ruido y sonido envolvente, perfectos para música y llamadas.",
+    "code": "BQC45",
+    "price": 299.99,
+    "status": true,
+    "stock": 25,
+    "category": "Audio",
+    "thumbnails": [
+      "img/bose_qc_45_1.jpg",
+      "img/bose_qc_45_2.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Tablet Apple iPad Pro 12.9\"",
+    "description": "Tableta potente con pantalla Liquid Retina XDR y chip M1 de Apple.",
+    "code": "AI12.9",
+    "price": 1099.99,
+    "status": true,
+    "stock": 35,
+    "category": "Tabletas",
+    "thumbnails": [
+      "img/ipad_pro_12.9_1.jpg",
+      "img/ipad_pro_12.9_2.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Smartwatch Garmin Fenix 7",
+    "description": "Reloj deportivo inteligente con GPS y medición de rendimiento avanzada.",
+    "code": "GF7",
+    "price": 699.99,
+    "status": true,
+    "stock": 20,
+    "category": "Wearables",
+    "thumbnails": [
+      "img/garmin_fenix_7_1.jpg",
+      "img/garmin_fenix_7_2.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Impresora multifunción HP LaserJet Pro MFP M479fdw",
+    "description": "Impresora láser a color con escáner, copiadora y fax integrados, ideal para entornos de oficina.",
+    "code": "HPLJPM479",
+    "price": 499.99,
+    "status": true,
+    "stock": 20,
+    "category": "Impresoras",
+    "thumbnails": [
+      "img/hp_laserjet_pro_1.jpg",
+      "img/hp_laserjet_pro_2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Altavoz inteligente Google Nest Audio",
+    "description": "Altavoz inteligente con asistente de voz integrado, perfecto para reproducir música y controlar dispositivos domésticos.",
+    "code": "GNA",
+    "price": 99.99,
+    "status": true,
+    "stock": 30,
+    "category": "Altavoces",
+    "thumbnails": [
+      "img/google_nest_audio_1.jpg",
+      "img/google_nest_audio_2.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Teclado mecánico Logitech G Pro X",
+    "description": "Teclado mecánico para juegos con interruptores GX Blue intercambiables y retroiluminación RGB.",
+    "code": "LGPROX",
+    "price": 149.99,
+    "status": true,
+    "stock": 15,
+    "category": "Periféricos",
+    "thumbnails": [
+      "img/logitech_g_pro_x_1.jpg",
+      "img/logitech_g_pro_x_2.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Monitor gaming ASUS ROG Swift PG279Q",
+    "description": "Monitor de juego de alta gama con resolución 1440p y frecuencia de actualización de 165Hz.",
+    "code": "ASROGPG279",
+    "price": 699.99,
+    "status": true,
+    "stock": 10,
+    "category": "Monitores",
+    "thumbnails": [
+      "img/asus_rog_pg279_1.jpg",
+      "img/asus_rog_pg279_2.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Router WiFi TP-Link Archer AX6000",
+    "description": "Router de doble banda con tecnología Wi-Fi 6 y velocidad de hasta 6000 Mbps.",
+    "code": "TPLAX6000",
+    "price": 299.99,
+    "status": true,
+    "stock": 15,
+    "category": "Redes",
+    "thumbnails": [
+      "img/tp_link_archer_ax6000_1.jpg",
+      "img/tp_link_archer_ax6000_2.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Drone DJI Mavic Air 2",
+    "description": "Drone plegable con cámara 4K, sistema de evitación de obstáculos y autonomía de vuelo extendida.",
+    "code": "DJIMA2",
+    "price": 899.99,
+    "status": true,
+    "stock": 10,
+    "category": "Drones",
+    "thumbnails": [
+      "img/dji_mavic_air_2_1.jpg",
+      "img/dji_mavic_air_2_2.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Kit de realidad virtual Oculus Quest 2",
+    "description": "Kit de realidad virtual todo en uno con seguimiento inside-out y controladores ergonómicos.",
+    "code": "OQ2",
+    "price": 399.99,
+    "status": true,
+    "stock": 20,
+    "category": "Realidad Virtual",
+    "thumbnails": [
+      "img/oculus_quest_2_1.jpg",
+      "img/oculus_quest_2_2.jpg"
+    ]
+  }
+]
